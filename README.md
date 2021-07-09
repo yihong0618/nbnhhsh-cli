@@ -5,7 +5,7 @@
 
 ## 安装(Python3.6+)
 
-pip3 install hhsh
+pip3 install -U hhsh
 
 ## 例子
 
