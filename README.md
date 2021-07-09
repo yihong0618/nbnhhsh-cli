@@ -1,6 +1,6 @@
 # 「能不能好好说话？」 的 CLI 版本
 
-基于 [@itorr](https://github.com/itorr)的[能不能好好说话？](https://github.com/itorr/nbnhhsh)，命令行版本
+基于 [@itorr] (https://github.com/itorr)的[能不能好好说话？](https://github.com/itorr/nbnhhsh)，命令行版本
 
 
 ## 安装(Python3.6+)
