@@ -13,6 +13,10 @@ pip3 install hhsh
 
 hhsh "我 tmd 这到底是什么，人人都在说 yyds, 啊啊啊"
 
+or without pip
+
+python3 -m hhsh "啊啊啊啊 gc 到底是什么啊？"
+
 ```
 
 ## 致谢
