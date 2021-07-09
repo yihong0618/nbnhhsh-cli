@@ -38,7 +38,8 @@ def print_rich_table(text_list):
         for i in t["trans"][:-1]:
             table.add_row(name, i)
         table.add_row(name, t["trans"][-1], style="underline2")
-    table.rows[-1].style = None
+    if table.rows:
+        table.rows[-1].style = None
     console.print(table)
 
 
